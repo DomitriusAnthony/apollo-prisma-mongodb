@@ -2,5 +2,5 @@
 - clone 
 - server & client npm install 
 - docker-compose up -d
-- docker deploy
+- prisma deploy
 - server & client npm start
